@@ -1,0 +1,7 @@
+{
+      "faculty":"https://raw.githubusercontent.com/Xworkz/JSON/master/Faculties.json",
+      "batches":"https://raw.githubusercontent.com/Xworkz/JSON/master/Batches.json",
+      "gallery":"https://raw.githubusercontent.com/Xworkz/Gallery/master/Gallery.json",
+      "notification":"https://raw.githubusercontent.com/dvsmahajan/newsfeed/master/notification.json",
+      "facultyImage":"https://raw.githubusercontent.com/Xworkz/FacultiesImages/master/"
+}
